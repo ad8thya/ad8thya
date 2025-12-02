@@ -16,9 +16,9 @@
 
 ## 🚀 Featured Projects
 
-- 🔬 **MediaEval 2025 — Synthetic Image Detection** — [Repo Link](#) — Bias & generalization analysis using DenseNet + U-Net.  
+- 🔬 **MediaEval 2025 — Synthetic Image Detection** — [Repo Link](https://github.com/ad8thya/mediaEval) — Bias & generalization analysis using DenseNet + U-Net.  
 - 📄 **OCR Legal Document Explainer** — [Repo Link](#) — OCR + transformers to turn dense legal text into simple summaries.  
-- 💳 **RentCredit (Fintech)** — [Repo Link](#) — Rent-based credit building with role dashboards & secure Firebase auth.  
+- 💳 **RentCredit (Fintech)** — [Repo Link](https://github.com/ad8thya/rentcredit) — Rent-based credit building with role dashboards & secure Firebase auth.  
 - 💬 **Encrypted Chat App** *(coming soon)* — WebSocket messaging with room support & end-to-end encryption.  
 - ☁️ **Micro Cloud APIs** *(coming soon)* — Lightweight ML utilities deployed on serverless cloud.
 
